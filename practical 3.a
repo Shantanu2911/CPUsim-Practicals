@@ -1,0 +1,9 @@
+;Addition
+START: INP
+STA NUM
+INP
+ADD NUM
+OUT
+HLT
+
+NUM: .data 1 0

@@ -1,0 +1,38 @@
+;******ADD*******
+;START: 
+;INP
+;STA NUM
+;INP 
+;ADD NUM
+;OUT 
+;HLT
+;
+;NUM: .data 1 0
+
+;******LDA*******
+
+;INP
+;STA NUM
+;LDA NUM
+;OUT 
+;HLT
+;
+;NUM: .data 1 0
+
+;*******STA********
+;INP
+;STA 
+;OUT
+;HLT
+
+;********BUN******
+;INP
+;BUN K
+;INP
+;K: OUT
+;HLT
+ 
+;*****ISZ******
+ISZ 009 
+OUT
+HLT
